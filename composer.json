@@ -1,5 +1,5 @@
 {
-    "name": "terminal42/contao-inserttags",
+    "name": "stephaneisenbach/contao-inserttags",
     "description": "Contao extension to create InsertTags to replace content in front- or backend.",
     "keywords": ["contao", "inserttags", "backend", "frontend"],
     "type": "contao-module",
